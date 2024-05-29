@@ -1,4 +1,4 @@
-Для запуска:
+Для запуску:
 
 git clone
 cd product-list
