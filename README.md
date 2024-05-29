@@ -1,9 +1,9 @@
-Для запуска:
+Для запуску:
 
-git clone
-cd product-list
-npm i
-npm run dev
+- git clone
+- cd product-list
+- npm i
+- npm run dev
 
 Стек: 
 
